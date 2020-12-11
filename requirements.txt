@@ -1,0 +1,6 @@
+validators
+python-whois
+dnspython
+requests
+shodan
+censys
