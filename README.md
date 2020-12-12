@@ -1,16 +1,12 @@
-## gasmask
+## ProInfo
 
-All in one Information gathering tool - OSINT
+All in one Information gathering tool 
 
-*For a full list of our tools, please visit our website https://www.twelvesec.com/*
+*For a full list of our tools, please visit our website https://www.muneb.rf.gd/*
 
 Written by:
 
-* [maldevel](https://github.com/maldevel) ([twitter](https://twitter.com/maldevel))
-* [mikismaos](https://github.com/mikismaos)
-* [xvass](https://github.com/xvass)
-* [ndamoulianos](https://github.com/ndamoulianos)
-* [sbrb](https://github.com/sbrb)
+* muneebwanee
 ---
 
 ### Dependencies
