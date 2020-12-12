@@ -223,7 +223,7 @@ python proinfo.py -i censys -u
 
 ### Credits
 
-* [EmailHarvester](https://github.com/maldevel/EmailHarvester)
+* [RetrieveEmail](https://github.com/muneebwanee/RetrieveEmail)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r)
 * [gelim](https://github.com/gelim/censys)
